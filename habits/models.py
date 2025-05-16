@@ -1,5 +1,4 @@
 from django.db import models
-from .models import Habit
 
 # Create your models here.
 class Habit(models.Model):
